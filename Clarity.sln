@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clarity", "Clarity\Clarity.csproj", "{87097494-DABB-477D-9119-7398FED626E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClarityDemo", "ClarityDemo\ClarityDemo.csproj", "{B1709FA7-0455-42A1-917B-3A68B4AB83CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87097494-DABB-477D-9119-7398FED626E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87097494-DABB-477D-9119-7398FED626E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87097494-DABB-477D-9119-7398FED626E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87097494-DABB-477D-9119-7398FED626E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1709FA7-0455-42A1-917B-3A68B4AB83CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1709FA7-0455-42A1-917B-3A68B4AB83CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1709FA7-0455-42A1-917B-3A68B4AB83CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1709FA7-0455-42A1-917B-3A68B4AB83CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ACAE0CC-8EF9-4062-81D8-43F6E286DA05}
+	EndGlobalSection
+EndGlobal
